@@ -1,0 +1,4 @@
+#Fri Mar 06 21:12:07 KST 2020
+base.0=/Users/skylalee/Desktop/LABS/2020LABS/Android_Studio/RegisterLogin_Example/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
