@@ -1,6 +1,12 @@
 # Android - RegisterLogin
 Android registration and login example using php database. It is a example for register and logging in to a system that one is developping. Android emulator environment is supported and is for Android environment. It is connected to a host database by php database. 
 
+## Images
+- Login Page
+<img width="400" alt="LOGIN page" src="https://user-images.githubusercontent.com/42270720/80200453-9c43f000-865d-11ea-86f1-67dadf79dc4c.png">
+- Registration Page
+<img width="400" alt="SIGNUP page" src="https://user-images.githubusercontent.com/42270720/80200899-4754a980-865e-11ea-9aa6-3466713d32b4.png">
+
 ## Features
 - SIGN UP page
   - Collect information from new user
