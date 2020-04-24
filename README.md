@@ -1,4 +1,4 @@
-# Android_RegisterLogin
+# Android - RegisterLogin
 Android registration and login example using php database. It is a example for register and logging in to a system that one is developping. Android emulator environment is supported and is for Android environment. It is connected to a host database by php database. 
 
 ## Features
@@ -26,11 +26,11 @@ Android registration and login example using php database. It is a example for r
 - Git clone or Download ZIP
 
 ## How to Use
-1. PHP Database
+- PHP Database
   - Make your own database
   - Change php database link to your own database in code
 
-2. Main Page
+- Main Page
   - Modify as you want your program to run
 
 ## Reference
