@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("localhost", "skyla2692", "Rage9327^^", "skyla2692");
+    $con = mysqli_connect("localhost", "USER_ID", "USER_PW", "USER_ID");
     mysqli_query($con,'SET NAMES utf8');
 
     $userID = $_POST["userID"];
